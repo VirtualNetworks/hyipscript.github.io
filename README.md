@@ -5,4 +5,4 @@ Hyip Script Collection
 
 ***
 
-[*What next..*](https://github.com/hyipscript/hyipscript.github.io/wiki)
+[What Next..](https://github.com/hyipscript/hyipscript.github.io/wiki)
